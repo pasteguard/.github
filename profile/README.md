@@ -8,6 +8,8 @@ The project investigates how advanced clipboard protection can support developer
 
 PasteGuard originated from practical development workflows and is being developed in an early validation phase, with input from academic and everyday development contexts.
 
+The current work is focused on the PasteGuard EDU track, which serves as a research and validation variant of the project.
+
 ## Repositories
 
 This organization contains the repositories related to the PasteGuard project.
