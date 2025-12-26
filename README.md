@@ -1,0 +1,2 @@
+# .github
+FHNW software project
