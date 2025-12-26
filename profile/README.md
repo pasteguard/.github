@@ -18,6 +18,11 @@ Each repository includes its own README with technical details and build instruc
 
 PasteGuard is under active development and is not intended for production use.
 
+## Academic Context
+
+FHNW – University of Applied Sciences and Arts Northwestern Switzerland  
+<https://www.fhnw.ch>
+
 ## Website
 
 <https://pasteguard.vercel.app>
